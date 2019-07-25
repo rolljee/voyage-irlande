@@ -80,5 +80,5 @@ theme: diaspora
 deploy:
   type: git
   repo: https://github.com/rolljee/voyage-irlande.git
-  branch: published
+  branch: gh-pages
   message: '🚀something new is here'

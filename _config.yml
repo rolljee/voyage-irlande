@@ -13,8 +13,8 @@ timezone: Europe/Paris
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://rolljee.github.io/voyage-irelande
-root: /
+url: http://rolljee.github.io
+root: /voyage-irlande/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,6 +79,6 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/rolljee/voyage-irelande.git
+  repo: https://github.com/rolljee/voyage-irlande.git
   branch: published
   message: '🚀something new is here'

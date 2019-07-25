@@ -13,7 +13,7 @@ timezone: Europe/Paris
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://rolljee.github.io
+url: http://rolljee.github.io/voyage-irlande
 root: /voyage-irlande/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
